@@ -1,4 +1,4 @@
-# Advanced-3D-Clay-Sculpting# Sculpt Clay - Ultimate Sphere Power
+# Advanced-3D - Ultimate Sphere Power
 
 Webブラウザ上で動作する、Three.jsベースの簡易3D粘土彫刻ツールです。
 マウスドラッグで球体の頂点を直接操作し、直感的に形状を変化させることができます。
